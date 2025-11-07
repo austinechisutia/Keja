@@ -5,7 +5,6 @@ function App() {
     <>
       <Navbar />
       <main style={{ textAlign: "center" }}>
-        <h1>Home Page</h1>
       </main>
       
     </>
